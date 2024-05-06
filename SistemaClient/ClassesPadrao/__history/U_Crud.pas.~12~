@@ -1,0 +1,60 @@
+unit U_Crud;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, Datasnap.DBClient;
+
+type
+  TCrud = class
+  private
+    { Private declarations }
+
+  public
+    { Public declarations }
+    GLBMsgErro : string;
+    strOpcao : string;
+    function ObterRegistro(operacao : string; CDS : TClientDataSet; ID : int64) : String;
+    function ConfirmarOperacao(CDS : TClientDataSet) : String;
+
+  end;
+
+var
+  Crud: TCrud;
+
+implementation
+
+function TCrud.ConfirmarOperacao(CDS : TClientDataSet) : String;
+begin
+   if Crud.strOpcao = 'E' then
+      begin
+         TClientDataSet(CDS).Delete;
+      end;
+   Crud.GLBMsgErro:='';
+   TClientDataSet(CDS).ApplyUpdates(0);
+   if Crud.GLBMsgErro <> '' then
+      begin
+         Result:=Crud.GLBMsgErro;
+      end
+   else
+      begin
+         Result:='';
+      end;
+   TClientDataSet(CDS).Close;
+end;
+
+function TCrud.ObterRegistro(operacao : string; CDS : TClientDataSet; ID : int64) : string;
+begin
+   Crud.strOpcao:=operacao;
+   TClientDataSet(CDS).Close;
+   TClientDataSet(CDS).Params[0].AsLargeInt:=ID;
+   TClientDataSet(CDS).Open;
+
+   if Crud.strOpcao = 'I' then
+      begin
+         TClientDataSet(CDS).Append;
+         //TClientDataSet(CDS).Fields[0].AsLargeInt:=RetornaID(TClientDataSet(CDS).Fields[0].FieldName);
+      end;
+end;
+
+end.

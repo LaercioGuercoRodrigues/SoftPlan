@@ -1,0 +1,29 @@
+unit U_FormPadraoCadastro;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, U_FormPadrao, Data.DB, Vcl.Grids,
+  Vcl.DBGrids, Vcl.ExtCtrls;
+
+type
+  TFormPadraoCadastro = class(TFormPadrao)
+    PanelTopo: TPanel;
+    PanelParametros: TPanel;
+    DBGrid1: TDBGrid;
+    PanelBase: TPanel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormPadraoCadastro: TFormPadraoCadastro;
+
+implementation
+
+{$R *.dfm}
+
+end.

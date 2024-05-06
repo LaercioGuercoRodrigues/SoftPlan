@@ -1,0 +1,39 @@
+unit U_FormPadraoCadastro;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, U_FormPadrao, Data.DB, Vcl.Grids,
+  Vcl.DBGrids, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.Buttons, U_Crud;
+
+type
+  TFormPadraoCadastro = class(TFormPadrao)
+    PanelTopo: TPanel;
+    BitBtnConfirmar: TBitBtn;
+    BitBtnCancelar: TBitBtn;
+    BitBtnFechar: TBitBtn;
+    PanelCampos: TPanel;
+    DataSourceCadastro: TDataSource;
+    procedure FormCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    Crud : TCrud;
+  end;
+
+var
+  FormPadraoCadastro: TFormPadraoCadastro;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFormPadraoCadastro.FormCreate(Sender: TObject);
+begin
+  inherited;
+  Crud:=TCrud.Create;
+end;
+
+end.

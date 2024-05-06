@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/22 04:35:30.000.346,=C:\Users\laerc\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2024/04/22 04:36:52.000.305,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPadrao.dfm=C:\Users\laerc\Documents\Embarcadero\Studio\Projects\Unit8.dfm</Transaction>
+    <Transaction>2024/04/22 04:36:52.000.305,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPadrao.pas=C:\Users\laerc\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2024/04/22 04:37:15.000.948,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\SistemaClient.dproj=C:\Users\laerc\Documents\Embarcadero\Studio\Projects\Project9.dproj</Transaction>
+    <Transaction>2024/04/22 04:38:14.000.244,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPrincipal.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPadrao.dfm</Transaction>
+    <Transaction>2024/04/22 04:38:14.000.244,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPrincipal.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPadrao.pas</Transaction>
+    <Transaction>2024/04/22 04:38:47.000.694,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPrincipal.pas=</Transaction>
+    <Transaction>2024/04/22 04:39:19.000.520,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:40:26.000.277,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_FormPadrao.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:40:26.000.277,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_FormPadrao.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm</Transaction>
+    <Transaction>2024/04/22 04:40:37.000.116,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:41:22.000.033,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:42:45.000.891,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_FormPadraoConsulta.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:42:45.000.891,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_FormPadraoConsulta.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm</Transaction>
+    <Transaction>2024/04/22 04:43:32.000.824,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:44:33.000.102,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_FormPadraoCadastro.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm</Transaction>
+    <Transaction>2024/04/22 04:44:33.000.102,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_FormPadraoCadastro.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:45:17.000.768,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:46:13.000.854,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPrincipal.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:46:13.000.854,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormPrincipal.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm</Transaction>
+    <Transaction>2024/04/22 04:52:57.000.003,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:53:26.000.231,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_DMRest.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm</Transaction>
+    <Transaction>2024/04/22 04:53:26.000.231,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_DMRest.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 05:17:53.000.934,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 05:18:37.000.751,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormConsultaCEP.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm</Transaction>
+    <Transaction>2024/04/22 05:18:37.000.751,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormConsultaCEP.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/23 08:47:46.000.988,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/23 08:49:04.000.919,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormConsultaCEPApi.dfm</Transaction>
+    <Transaction>2024/04/23 08:49:04.000.919,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormConsultaCEPApi.pas</Transaction>
+    <Transaction>2024/04/23 10:28:50.000.301,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/23 10:29:23.000.933,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_DMServer.pas</Transaction>
+    <Transaction>2024/04/23 10:29:23.000.933,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_DMServer.dfm</Transaction>
+    <Transaction>2024/04/29 05:41:17.000.906,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/04/29 05:41:47.000.673,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\ClassesPadrao\U_Crud.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/05/01 09:39:16.000.919,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas</Transaction>
+    <Transaction>2024/05/01 09:40:41.000.949,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormCadastroCEP.dfm</Transaction>
+    <Transaction>2024/05/01 09:40:41.000.949,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\Unit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaClient\U_FormCadastroCEP.pas</Transaction>
+  </Transactions>
+</BorlandProject>
