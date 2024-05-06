@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/22 04:11:06.000.969,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\FormUnit1.pas</Transaction>
+    <Transaction>2024/04/22 04:11:07.000.921,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2024/04/22 04:11:07.000.755,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.604,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\serverfunctions.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.115,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.397,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.934,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\connection.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.350,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\base64.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.855,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\callbackframework-min.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.712,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\json2-min.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.767,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.460,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\json2.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.541,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\callbackframework.js</Transaction>
+    <Transaction>2024/04/22 04:11:08.000.650,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\base64-min.js</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.206,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.353,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.285,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\templates\reversestring.html</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.014,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.602,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\images\expand.png</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.542,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\images\collapse.png</Transaction>
+    <Transaction>2024/04/22 04:11:09.000.125,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\css\main.css</Transaction>
+    <Transaction>2024/04/22 04:14:02.000.423,=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 04:16:57.000.453,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\FormUnit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\U_FormMonitor.pas</Transaction>
+    <Transaction>2024/04/22 04:16:57.000.453,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\FormUnit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\U_FormMonitor.dfm</Transaction>
+    <Transaction>2024/04/22 04:18:16.000.694,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\Unit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\U_DSSDM.dfm</Transaction>
+    <Transaction>2024/04/22 04:18:16.000.694,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\Unit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\U_DSSDM.pas</Transaction>
+    <Transaction>2024/04/22 04:18:27.000.558,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerContainerUnit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerContainer.pas</Transaction>
+    <Transaction>2024/04/22 04:18:27.000.558,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerContainerUnit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerContainer.dfm</Transaction>
+    <Transaction>2024/04/22 04:18:36.000.013,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\WebModuleUnit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\WebModulepas.dfm</Transaction>
+    <Transaction>2024/04/22 04:18:36.000.013,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\WebModuleUnit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\WebModulepas.pas</Transaction>
+    <Transaction>2024/04/22 04:18:43.000.656,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerMethodsUnit1.pas=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerMethods.pas</Transaction>
+    <Transaction>2024/04/22 04:18:43.000.656,D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerMethodsUnit1.dfm=D:\Laercio\SistemasClientes\SoftPlan\DesafioTecnico\SistemaServer\ServerMethods.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
